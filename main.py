@@ -6,4 +6,4 @@ for x in my_list:
 for x in my_list:
     if x == 0:
         result.append(x)
-print(result)
+print(result)git
